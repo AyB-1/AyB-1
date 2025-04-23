@@ -4,23 +4,23 @@
 
 🛠️ What I'm working on:
 
-Learning Wi-Fi security using Kali Linux
+Learning  security using Kali Linux
 
 Writing Bash scripts (network scanners, automation tools)
 
 Exploring ethical hacking techniques
 
-🌱 My learning journey:
 
-Completed a basic cybersecurity course
-
-Doing daily hands-on practice
-
-Sharing my journey here on GitHub
 
 📂 Projects:
 
       🔍 Network scanner
+      🔍 Subdomain scanner
+      🔍 WAF Detector
+      🔍 Hidden Directories Scanner
+      🔍 Email & Info Collector
+      🔍 Full Recon
+      
 
 Wi-Fi cracking tools (in progress)
 
