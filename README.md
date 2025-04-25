@@ -20,10 +20,13 @@ Exploring ethical hacking techniques
       🔍 Hidden Directories Scanner
       🔍 Email & Info Collector
       🔍 Full Recon
+      🔍 Osint Info Collector
       
 
-Wi-Fi cracking tools (in progress)
-
+-Wi-Fi cracking tools (in progress)
+-Subdomain scanner / WAF Detector
+[Hidden Directories Scanner/Email & Info Collector]
+Osint-Info-Collector
 [More projects coming soon...]
 
 📬 Contact me:
@@ -43,14 +46,3 @@ Facebook: Il AyB Il
 <!--
 **AyB-1/AyB-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
