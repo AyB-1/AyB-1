@@ -39,7 +39,7 @@ Instagram: lucass_spaams
 
 Facebook: Il AyB Il
 
-🧠 Always learning. Always testing (legally) 💻
+🧠 💻
 
 
 
